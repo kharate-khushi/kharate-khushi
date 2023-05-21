@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/ayushete02/ayushete02/raw/main/readme_media/headerImage.png)
 <h1 align="center">Hi 👋, I'm Khushi Kharate</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
